@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmswiththeBigO", "AlgorithmswiththeBigO.csproj", "{FAABCD95-A726-497F-B750-BB55826D4C4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAABCD95-A726-497F-B750-BB55826D4C4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAABCD95-A726-497F-B750-BB55826D4C4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAABCD95-A726-497F-B750-BB55826D4C4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAABCD95-A726-497F-B750-BB55826D4C4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0F1C6FFA-979C-4D13-9ECD-648C36FF328F}
+	EndGlobalSection
+EndGlobal
